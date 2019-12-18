@@ -56,7 +56,7 @@ https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks
 
 Een mogelijk blokschema van een IOT-applicatie via cloud-communicatie kan er als volgt uitzien.
 
-![Blokschema IOT] (./afbeeldingen/blokschemaIOT.jpg)
+![Blokschema IOT] (./assets/blokschemaIOT.png)
 
 De controller op het toestel (Thing) kan informatie afkomstig van sensoren op het toestel doorsturen naar de cloud. De informatie wordt eventueel verwerkt en weergegeven op verschillende vormen van toestellen. 
 Het is eveneens mogelijk vanop een computer, tablet, smartphone … actuatoren verbonden met de controller aan te sturen. Zoals bijvoorbeeld bij een domotica-systeem.  
@@ -65,7 +65,7 @@ Het is eveneens mogelijk vanop een computer, tablet, smartphone … actuatoren v
 
 Stel een mogelijk blokschema op van voorgaande slimme toestellen.
 
-![Blokschema thermostaat] (./afbeeldingen/blokschemaThermostaat.jpg)
+![Blokschema thermostaat] (./assets/blokschemaThermostaat.png)
 
-![Blokschema detectie en weergave parkeerplaatsen] (./afbeeldingen/blokschemaParking.jpg)
+![Blokschema detectie en weergave parkeerplaatsen] (./assets/blokschemaParking.png)
 
