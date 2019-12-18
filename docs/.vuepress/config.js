@@ -7,7 +7,11 @@ module.exports = {
       { text: 'Company', link: 'www.sint-rembert.be' },
       { text: 'License', link: '/LICENSE.md' },
     ],
-    sidebar: [['/', 'Home'], ['/maatschappelijk-nut/', 'Maatschappelijk nut']],
+    sidebar: [
+      ['/', 'Home'],
+      ['/maatschappelijk-nut/', 'Maatschappelijk nut'],
+      ['/privacy-en-veiligheid/', 'Privacy en veiligheid']
+    ],
     repo: 'https://github.com/KrisWerbrouck1/Innovet_IOT_Inleiding',
     docsDir: 'docs',
     docsBranch: 'master'
