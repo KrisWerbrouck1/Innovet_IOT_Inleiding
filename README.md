@@ -50,4 +50,4 @@ https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks
 
 Een mogelijk blokschema van een IOT-applicatie via cloud-communicatie kan er als volgt uitzien.
 
-![Blokschema IOT] (./afbeeldingen/blokschema IOT.jpg)
+![Blokschema IOT] (./afbeeldingen/blokschemaIOT.jpg)
