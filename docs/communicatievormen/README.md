@@ -1,6 +1,8 @@
 # Communicatievormen
 
-Om de slimme toestellen te laten communiceren met een netwerk zijn verschillende communicatievormen nodig. We hebben 2 grote groepen:
+Om de slimme toestellen te laten communiceren met een netwerk zijn verschillende communicatievormen nodig. 
+
+We hebben 2 grote groepen:
 * Toestellen die binnen een lokaal netwerk (bedraad of draadloos) met het internet kunnen communiceren.
 * Toestellen die niet steeds over een lokaal netwerk kunnen beschikken. Hiervoor zijn verschillende communicatievormen mogelijk zoals 4G, sigfox, LORA … 
 
