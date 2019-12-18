@@ -17,46 +17,52 @@ Enkele voorbeelden zijn:
 
 # Voorbeelden
 
-Nest thermostaat van google 
+Slimme thermostaat 
 
-https://store.google.com/be/product/nest_learning_thermostat_3rd_gen
-https://www.youtube.com/watch?v=jfHO05LzPn8
+*[Product website Nest](https://store.google.com/be/product/nest_learning_thermostat_3rd_gen)
+
+*[Voorstelling door Coolbue](https://www.youtube.com/watch?v=jfHO05LzPn8)
 
 
 Detectie beschikbare parkeerplaatsen
 
-https://ikanda.be/nl/oplossingen/parkingbeheer
-https://industrial-iot.nl/slimme-parkeerplaatsen-in-de-slimme-stad/
+*[Voorstelling door Vlaamse producent IKANDA](https://ikanda.be/nl/oplossingen/parkingbeheer)
+
+*[Uitleg industrial-iot.nl](https://industrial-iot.nl/slimme-parkeerplaatsen-in-de-slimme-stad/)
 
 
-Energieverbruik en productiemonitoren
+Energieverbruik en productie monitoren
 
-https://www.smappee.com/be_en/homepage
-https://www.2-wire.net/
+*[Voorstelling door Vlaamse producent Smappee](https://www.smappee.com/be_en/homepage)
+
+*[Voorstelling door Vlaamse producent 2-wire](https://www.2-wire.net/)
 
 
 Slimme deelfietsen
 
-https://www.uber.com/be/nl/ride/uber-bike/
-https://www.youtube.com/watch?v=lYBvx-kgr3A
-https://goflash.com/
-https://gocar.be/nl/autonieuws/mobiliteit/elektrische-deelsteps-alles-wat-je-erover-moet-weten
+*[Product website uber bike](https://www.uber.com/be/nl/ride/uber-bike/)
+
+*[Slimme deelfietsen](https://www.youtube.com/watch?v=lYBvx-kgr3A)
+
+*[Slimme deelfietsen](https://goflash.com/)
+
+*[Slimme deelfietsen](https://gocar.be/nl/autonieuws/mobiliteit/elektrische-deelsteps-alles-wat-je-erover-moet-weten)
 
 
 Slimme vuilbakken
 
-https://industrial-iot.nl/prullenbakken-verbonden-met-internet/
+*[Slimme vuilbakken](https://industrial-iot.nl/prullenbakken-verbonden-met-internet/)
 
 
 Gebruikstijd, productie … machines registeren en analyseren
 
-https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks
+*[Vlaamse leverancier](https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks)
 
 # Blokschema
 
 Een mogelijk blokschema van een IOT-applicatie via cloud-communicatie kan er als volgt uitzien.
 
-![Blokschema IOT] (./assets/afbeeldingen/blokschemaIOT.png)
+![Blokschema IOT](./assets/afbeeldingen/blokschemaIOT.png)
 
 De controller op het toestel (Thing) kan informatie afkomstig van sensoren op het toestel doorsturen naar de cloud. De informatie wordt eventueel verwerkt en weergegeven op verschillende vormen van toestellen. 
 Het is eveneens mogelijk vanop een computer, tablet, smartphone … actuatoren verbonden met de controller aan te sturen. Zoals bijvoorbeeld bij een domotica-systeem.  
@@ -65,7 +71,11 @@ Het is eveneens mogelijk vanop een computer, tablet, smartphone … actuatoren v
 
 Stel een mogelijk blokschema op van voorgaande slimme toestellen.
 
-![Blokschema thermostaat] (./assets/afbeeldingen/blokschemaThermostaat.png)
+Voorbeeld slimme thermostaat
 
-![Blokschema detectie en weergave parkeerplaatsen] (./assets/afbeeldingen/blokschemaParking.png)
+![Blokschema thermostaat](./assets/afbeeldingen/blokschemaThermostaat.png)
+
+
+Voorbeeld detectie en weergave parkeerplaatsen
+![Blokschema detectie en weergave parkeerplaatsen](./assets/afbeeldingen/blokschemaParking.png)
 
