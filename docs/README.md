@@ -19,39 +19,39 @@ Enkele voorbeelden zijn:
 
 Slimme thermostaat 
 
-*[Product website Nest](https://store.google.com/be/product/nest_learning_thermostat_3rd_gen)
+*[Website Nest](https://store.google.com/be/product/nest_learning_thermostat_3rd_gen)
 
 *[Voorstelling door Coolbue](https://www.youtube.com/watch?v=jfHO05LzPn8)
 
 
 Detectie beschikbare parkeerplaatsen
 
-*[Voorstelling door Vlaamse producent IKANDA](https://ikanda.be/nl/oplossingen/parkingbeheer)
+*[Vlaamse producent IKANDA](https://ikanda.be/nl/oplossingen/parkingbeheer)
 
 *[Uitleg industrial-iot.nl](https://industrial-iot.nl/slimme-parkeerplaatsen-in-de-slimme-stad/)
 
 
 Energieverbruik en productie monitoren
 
-*[Voorstelling door Vlaamse producent Smappee](https://www.smappee.com/be_en/homepage)
+*[Vlaamse producent Smappee](https://www.smappee.com/be_en/homepage)
 
-*[Voorstelling door Vlaamse producent 2-wire](https://www.2-wire.net/)
+*[Vlaamse producent 2-wire](https://www.2-wire.net/)
 
 
-Slimme deelfietsen
+Slimme deelfietsen en steps
 
-*[Product website uber bike](https://www.uber.com/be/nl/ride/uber-bike/)
+*[Website uber bike](https://www.uber.com/be/nl/ride/uber-bike/)
 
-*[Slimme deelfietsen](https://www.youtube.com/watch?v=lYBvx-kgr3A)
+*[Voorstelling Jump by Uber](https://www.youtube.com/watch?v=lYBvx-kgr3A)
 
-*[Slimme deelfietsen](https://goflash.com/)
+*[Circ deelsteps](https://goflash.com/)
 
-*[Slimme deelfietsen](https://gocar.be/nl/autonieuws/mobiliteit/elektrische-deelsteps-alles-wat-je-erover-moet-weten)
+*[Artikel rond deelsteps](https://gocar.be/nl/autonieuws/mobiliteit/elektrische-deelsteps-alles-wat-je-erover-moet-weten)
 
 
 Slimme vuilbakken
 
-*[Slimme vuilbakken](https://industrial-iot.nl/prullenbakken-verbonden-met-internet/)
+*[Uitleg industrial-iot.n](https://industrial-iot.nl/prullenbakken-verbonden-met-internet/)
 
 
 Gebruikstijd, productie … machines registeren en analyseren
