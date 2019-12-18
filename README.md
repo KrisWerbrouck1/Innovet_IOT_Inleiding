@@ -18,21 +18,25 @@ Enkele voorbeelden zijn:
 # Voorbeelden
 
 Nest thermostaat van google 
+
 https://store.google.com/be/product/nest_learning_thermostat_3rd_gen
 https://www.youtube.com/watch?v=jfHO05LzPn8
 
 
 Detectie beschikbare parkeerplaatsen
+
 https://ikanda.be/nl/oplossingen/parkingbeheer
 https://industrial-iot.nl/slimme-parkeerplaatsen-in-de-slimme-stad/
 
 
 Energieverbruik en productiemonitoren
+
 https://www.smappee.com/be_en/homepage
 https://www.2-wire.net/
 
 
 Slimme deelfietsen
+
 https://www.uber.com/be/nl/ride/uber-bike/
 https://www.youtube.com/watch?v=lYBvx-kgr3A
 https://goflash.com/
@@ -40,10 +44,12 @@ https://gocar.be/nl/autonieuws/mobiliteit/elektrische-deelsteps-alles-wat-je-ero
 
 
 Slimme vuilbakken
+
 https://industrial-iot.nl/prullenbakken-verbonden-met-internet/
 
 
 Gebruikstijd, productie … machines registeren en analyseren
+
 https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks
 
 # Blokschema
@@ -51,3 +57,14 @@ https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks
 Een mogelijk blokschema van een IOT-applicatie via cloud-communicatie kan er als volgt uitzien.
 
 ![Blokschema IOT] (./afbeeldingen/blokschemaIOT.jpg)
+
+De controller op het toestel (Thing) kan informatie afkomstig van sensoren op het toestel doorsturen naar de cloud. De informatie wordt eventueel verwerkt en weergegeven op verschillende vormen van toestellen. 
+Het is eveneens mogelijk vanop een computer, tablet, smartphone … actuatoren verbonden met de controller aan te sturen. Zoals bijvoorbeeld bij een domotica-systeem.  
+
+# Opdrachten
+
+Stel een mogelijk blokschema op van voorgaande slimme toestellen.
+
+![Blokschema thermostaat] (./afbeeldingen/blokschemaThermostaat.jpg)
+
+![Blokschema detectie en weergave parkeerplaatsen] (./afbeeldingen/blokschemaParking.jpg)
