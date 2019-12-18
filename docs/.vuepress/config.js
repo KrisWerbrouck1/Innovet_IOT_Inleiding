@@ -10,7 +10,8 @@ module.exports = {
     sidebar: [
       ['/', 'Home'],
       ['/maatschappelijk-nut/', 'Maatschappelijk nut'],
-      ['/privacy-en-veiligheid/', 'Privacy en veiligheid']
+      ['/privacy-en-veiligheid/', 'Privacy en veiligheid'],
+      ['/communicatievormen/', 'Communicatievormen']
     ],
     repo: 'https://github.com/KrisWerbrouck1/Innovet_IOT_Inleiding',
     docsDir: 'docs',
