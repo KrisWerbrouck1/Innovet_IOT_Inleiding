@@ -11,7 +11,9 @@ module.exports = {
       ['/', 'Home'],
       ['/maatschappelijk-nut/', 'Maatschappelijk nut'],
       ['/privacy-en-veiligheid/', 'Privacy en veiligheid'],
-      ['/communicatievormen/', 'Communicatievormen']
+      ['/communicatievormen/', 'Communicatievormen'],
+      ['/voorbeelden/', 'Voorbeelden'],
+      ['/blokschema/', 'Blokschema']
     ],
     repo: 'https://github.com/KrisWerbrouck1/Innovet_IOT_Inleiding',
     docsDir: 'docs',
