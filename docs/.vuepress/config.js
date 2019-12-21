@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Company', link: 'www.sint-rembert.be' },
+      { text: 'Sint Rembert', link: 'http://www.sint-rembert.be' },
       { text: 'License', link: '/LICENSE.md' },
     ],
     sidebar: [
